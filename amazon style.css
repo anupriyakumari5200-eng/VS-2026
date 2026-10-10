@@ -1,0 +1,190 @@
+* {
+    margin: 0;
+    padding: 0%;
+    font-family: Arial;
+    border: border-box;
+}
+
+.nav-bar{
+    height: 60px;
+    align-items: center;
+    background-color: black;
+    color: beige;
+    display: flex;
+
+}
+.nav-logo{
+    background-image: url("amazon_logo.png");
+    height: 50px;
+    width: 100px;
+    background-size: cover;
+}
+
+
+.nav-address{
+    border: 40px;
+    padding: 30px;
+}
+.first address{
+    font-size: small;
+}
+.second address{
+    font-size: 15px;
+}
+
+.serch{
+    border: none;
+    width: 640px;
+    height: 40px;
+    padding: 30px;
+    display: flex;
+}
+.serch-nav{
+    width: 620px;
+    height: 40px;
+    border-radius: 4px;
+
+    
+}
+
+.account{
+    border: 40px;
+    padding: 30px;
+}
+.list-one{
+    font-size: small;
+}
+.list-two{
+    font-size: medium;
+}
+.return{
+    border: 40px;
+    padding: 30px;
+}
+.nav-bar2{
+    display: flex;
+    background-color: black;
+    color: aliceblue;
+}
+
+.hero-section{
+    background-image: url("hero_image.jpg");
+    background-size: cover;
+    height: 300px;
+    width: 1400px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+.hero-msg{
+    background-color: white;
+    color: black;
+    margin: 20px;
+}
+
+
+.box{
+    height: 300px;
+    width: 1400px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.boss{
+    height: 300px;
+    width: 450px;
+    border: 10px solid rgba(181, 173, 173, 0.903);
+    box-shadow: 10px;      
+
+}
+.box1{
+    padding: 20px 8px 13px;
+    hover: grey
+}
+.img1{
+    background-image: url("box1_image.jpg");
+    height: 230px;
+    width: 300px;         ;
+}
+
+
+.box2{
+    padding: 20px 8px 13px;
+}
+.img2{
+    background-image: url("box2_image.jpg");
+    height: 230px;
+    width: 300px;         ;
+}
+
+
+.box3{
+    padding: 20px 8px 13px;
+}
+.img3{
+    background-image: url("box3_image.jpg");
+    height: 230px;
+    width: 300px;         ;
+}
+
+
+.box4{
+    padding: 20px 8px 13px;
+}
+.img4{
+    background-image: url("box4_image.jpg");
+    height: 230px;
+    width: 300px;         ;
+}
+
+.boxx{
+    height: 300px;
+    margin: 40px 0px 0px;
+    width: 1400px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.bossss{
+    height: 300px;
+    width: 450px;
+    border: 10px solid rgba(181, 173, 173, 0.903);
+    box-shadow: 10px;  
+}
+    
+.boxx1{
+    padding: 20px 8px 13px;
+}
+.imgg1{
+    background-image: url("box5_image.jpg");
+    height: 230px;
+    width: 300px;         ;
+}
+
+.boxx2{
+    padding: 20px 8px 13px;
+}
+.imgg2{
+    background-image: url("box6_image.jpg");
+    height: 230px;
+    width: 300px;         ;
+}
+
+.boxx3{
+    padding: 20px 8px 13px;
+}
+.imgg3{
+    background-image: url("box7_image.jpg");
+    height: 230px;
+    width: 300px;
+}
+
+.boxx4{
+    padding: 20px 8px 13px;
+}
+.imgg4{
+    background-image: url("box8_image.jpg");
+    height: 230px;
+    width: 300px;         ;
+}
